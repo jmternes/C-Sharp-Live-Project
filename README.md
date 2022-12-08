@@ -34,4 +34,4 @@ This story provided many learning opportunities and new, useful knowledge moving
 
 ###### ***Then, I called the above method within the Create and Edit views methods to convert the uploaded image to a byte[ ]:***
 
-![](
+![]
