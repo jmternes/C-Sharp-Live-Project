@@ -9,4 +9,4 @@ CRUD (an acronym for Create, Read, Update, Delete) refers to the four main funct
 
 ### • ***Create***
 #### Story 1 - Create an Entity Framework model that represents Cast Members and their associated data.
-I was tasked with 
+I was tasked with creating an entity model for my assigned class (Cast Members), an enum for their role in the theatre, and adding CRUD functionality.
