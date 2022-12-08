@@ -26,5 +26,10 @@ After creating the CRUD pages, it was time to make some significant styling chan
 <hr/>
 
 #### Story 3 (back-end) - Allow users to upload images from their own file systems for storage and retrieval.
-This story provided many learning opportunities and new, useful knowledge moving forward. A user's image is uploaded from their system, then - in the controller - is converted into a byte[] and stored in the database. The image is then converted back into an image when retrieved for display in the views. 
+This story provided many learning opportunities and new, useful knowledge moving forward. A user's image is uploaded from their system, then - in the controller - is converted into a byte[ ] and stored in the database. The image is then converted back into an image when retrieved for display in the views. 
 
+###### ***This method converts the uploaded image into a byte[ ]:***
+
+![](https://github.com/jmternes/C-Sharp-Live-Project/blob/main/Image%20to%20Byte%5B%5D%20Method.png?raw=true)
+
+###### ***Then, I called the above method within the Create and Edit views methods to convert the uploaded image to a byte[ ]:***
