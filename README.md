@@ -33,3 +33,5 @@ This story provided many learning opportunities and new, useful knowledge moving
 ![](https://github.com/jmternes/C-Sharp-Live-Project/blob/main/Image%20to%20Byte%5B%5D%20Method.png?raw=true)
 
 ###### ***Then, I called the above method within the Create and Edit views methods to convert the uploaded image to a byte[ ]:***
+
+![](
