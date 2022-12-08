@@ -11,9 +11,14 @@ CRUD (an acronym for Create, Read, Update, Delete) refers to the four main funct
 
 ## ***Below, I'll highlight some of the work I completed as part of the 10-day sprint.***
 
-#### Story 1 - Create an Entity Framework model that represents Cast Members and their associated data.
+#### Story 1 (back-end) - Create an Entity Framework model that represents Cast Members and their associated data.
 I was tasked with creating an entity model for my assigned class (Cast Members), an enum for their role in the theatre, and adding CRUD functionality. After the model was created and functional, I scaffolded the CRUD pages - creating  Index, Edit, Create, Details, and Delete pages. 
 
 ![](https://github.com/jmternes/C-Sharp-Live-Project/blob/main/myModel.png?raw=true)
+
+<hr/>
+
+#### Story 2 (front-end) - Style the CRUD Pages.
+After creating the CRUD pages, it was time to make some significant styling changes. These updates were based on requirements given to me by The Tech Academy, which included styling buttons, adding placeholders to the input fields, placing the form in a centered container, and adding borders to the input fields that matched the client's design desires. 
 
 
