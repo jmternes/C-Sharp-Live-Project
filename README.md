@@ -21,4 +21,4 @@ I was tasked with creating an entity model for my assigned class (Cast Members),
 #### Story 2 (front-end) - Style the CRUD Pages.
 After creating the CRUD pages, it was time to make some significant styling changes. These updates were based on requirements given to me by The Tech Academy, which included styling buttons, adding placeholders to the input fields, placing the form in a centered container, and adding borders to the input fields that matched the client's design desires. 
 
-
+![](https://github.com/jmternes/C-Sharp-Live-Project/blob/main/CreatePage.png?raw=true)
