@@ -22,3 +22,9 @@ I was tasked with creating an entity model for my assigned class (Cast Members),
 After creating the CRUD pages, it was time to make some significant styling changes. These updates were based on requirements given to me by The Tech Academy, which included styling buttons, adding placeholders to the input fields, placing the form in a centered container, and adding borders to the input fields that matched the client's design desires. 
 
 ![](https://github.com/jmternes/C-Sharp-Live-Project/blob/main/CreatePage.png?raw=true)
+
+<hr/>
+
+#### Story 3 (back-end) - Allow users to upload images from their own file systems for storage and retrieval.
+This story provided many learning opportunities and new, useful knowledge moving forward. A user's image is uploaded from their system, then - in the controller - is converted into a byte[] and stored in the database. The image is then converted back into an image when retrieved for display in the views. 
+
