@@ -7,8 +7,13 @@ The project allowed me to work in a legacy codebase, completing both front-end a
 ## CRUD Functionality
 CRUD (an acronym for Create, Read, Update, Delete) refers to the four main functions inherent to relational databases. Implementing the four CRUD functions allows users of my Live Project to create, read, update, and delete data related to my cast members model.
 
-### • ***Create***
+
+
+## ***Below, I'll highlight some of the work I completed as part of the 10-day sprint.***
+
 #### Story 1 - Create an Entity Framework model that represents Cast Members and their associated data.
-I was tasked with creating an entity model for my assigned class (Cast Members), an enum for their role in the theatre, and adding CRUD functionality.
+I was tasked with creating an entity model for my assigned class (Cast Members), an enum for their role in the theatre, and adding CRUD functionality. After the model was created and functional, I scaffolded the CRUD pages - creating  Index, Edit, Create, Details, and Delete pages. 
 
 ![](https://github.com/jmternes/C-Sharp-Live-Project/blob/main/myModel.png?raw=true)
+
+
