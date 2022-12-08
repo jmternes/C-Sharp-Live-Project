@@ -5,7 +5,7 @@ As part of the curriculum at [The Tech Academy](https://learncodinganywhere.com)
 The project allowed me to work in a legacy codebase, completing both front-end and back-end user stories, both contributing to a product that allows users to [fill](#-create) a database with Cast Members data, then [read](#-read), or [update/delete](#-update-and-delete) said data; implemeting full [CRUD functionality](#crud-functionality).
 
 ## CRUD Functionality
-CRUD (an acronym for Create, Read, Update, Delete) refers to the four main functions inherent to relational databases. Implementing the four CRUD functions allows users of my Live Project to create, read, update, and delete data related to my cast members model.
+[CRUD](https://learn.microsoft.com/en-us/iis-administration/api/crud) refers to the four main functions inherent to relational databases. Implementing the four CRUD functions allows users of my Live Project to create, read, update, and delete data related to my cast members model.
 
 
 
