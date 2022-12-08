@@ -37,3 +37,7 @@ This story provided many learning opportunities and new, useful knowledge moving
 ![](https://github.com/jmternes/C-Sharp-Live-Project/blob/main/Image%202%20Byte%5B%5D%20Method%20Called.png?raw=true)
 
 ###### ***Lastly, I used [Razor syntax](https://learn.microsoft.com/en-us/aspnet/web-pages/overview/getting-started/introducing-razor-syntax-c) to get the byte[ ] from the Model, and convert it back to an image so the CSHTML img tag could render and display it:***
+
+![](https://github.com/jmternes/C-Sharp-Live-Project/blob/main/Display%20the%20Converted%20Image.png?raw=true)
+
+<hr/>
