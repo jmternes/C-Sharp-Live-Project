@@ -41,3 +41,6 @@ This story provided many learning opportunities and new, useful knowledge moving
 ![](https://github.com/jmternes/C-Sharp-Live-Project/blob/main/Display%20the%20Converted%20Image.png?raw=true)
 
 <hr/>
+
+#### Story 4 (front-end) - Style the Index page with the Cast Members Model entries.
+Since our Index page still had default styling, I was assigned to redesign the page to meet the requirements of the "design team".
