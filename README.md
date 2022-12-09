@@ -47,7 +47,8 @@ This story provided many learning opportunities and new, useful knowledge moving
 ##### ***Front and Back-end*** - Style the Index page with the Cast Members Model entries.
 Since our Index page still had default styling, I was assigned to redesign the page to meet the requirements of the "design team". Using bootstrap cards and modals, I made a clickable image (that a user could [upload](#story-3)), labeled with the name property of the Cast Members model. I also added edit and delete options on the cards, improving the site's usability.
 
-![](image here)
+![](https://github.com/jmternes/C-Sharp-Live-Project/blob/main/IndexPage.png?raw=true)
+*Note: the images are placeholders, but the user's uploaded image would display there.*
 
 <hr/>
 
