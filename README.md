@@ -12,14 +12,14 @@ The project allowed me to work in a legacy codebase, completing both front-end a
 #### Story 1 (back-end) - Create an Entity Framework model that represents Cast Members and their associated data.
 I was tasked with creating an entity model for my assigned class (Cast Members), an enum for their role in the theatre, and adding CRUD functionality. After the model was created and functional, I scaffolded the CRUD pages - creating  Index, Edit, Create, Details, and Delete pages. 
 
-![](https://github.com/jmternes/C-Sharp-Live-Project/blob/main/myModel.png?raw=true)
+![A code snippet of the Cast Members model and its properties](https://github.com/jmternes/C-Sharp-Live-Project/blob/main/myModel.png?raw=true)
 
 <hr/>
 
 #### Story 2 (front-end) - Style the CRUD Pages.
 After creating the CRUD pages, it was time to make some significant styling changes. These updates were based on requirements given to me by The Tech Academy, which included styling buttons, adding placeholders to the input fields, placing the form in a centered container, and adding borders to the input fields that matched the client's design desires. 
 
-![](https://github.com/jmternes/C-Sharp-Live-Project/blob/main/CreatePage.png?raw=true)
+![A screenshot of the website's design](https://github.com/jmternes/C-Sharp-Live-Project/blob/main/CreatePage.png?raw=true)
 
 <hr/>
 
@@ -28,17 +28,19 @@ This story provided many learning opportunities and new, useful knowledge moving
 
 ###### ***This method converts the uploaded image into a byte[ ]:***
 
-![](https://github.com/jmternes/C-Sharp-Live-Project/blob/main/Image%20to%20Byte%5B%5D%20Method.png?raw=true)
+![A code snippet of the image to byte array method](https://github.com/jmternes/C-Sharp-Live-Project/blob/main/Image%20to%20Byte%5B%5D%20Method.png?raw=true)
 
 ###### ***Then, I called the above method within the Create and Edit views methods to convert the uploaded image to a byte[ ]:***
 
-![](https://github.com/jmternes/C-Sharp-Live-Project/blob/main/Image%202%20Byte%5B%5D%20Method%20Called.png?raw=true)
+![A code snippet of the Create views method](https://github.com/jmternes/C-Sharp-Live-Project/blob/main/Image%202%20Byte%5B%5D%20Method%20Called.png?raw=true)
 
-###### ***Lastly, I used [Razor syntax](https://learn.microsoft.com/en-us/aspnet/web-pages/overview/getting-started/introducing-razor-syntax-c) to get the byte[ ] from the Model, and convert it back to an image so the CSHTML img tag could render and display it:***
+###### ***Lastly, I used [Razor syntax](https://learn.microsoft.com/en-us/aspnet/web-pages/overview/getting-started/introducing-razor-syntax-c) to get the byte[ ] from the Model, and convert it back to an image so the CSHTML img tag could render it:***
 
-![](https://github.com/jmternes/C-Sharp-Live-Project/blob/main/Display%20the%20Converted%20Image.png?raw=true)
+![A code snippet of the CSHTML file](https://github.com/jmternes/C-Sharp-Live-Project/blob/main/Display%20the%20Converted%20Image.png?raw=true)
 
 <hr/>
 
 #### Story 4 (front-end) - Style the Index page with the Cast Members Model entries.
-Since our Index page still had default styling, I was assigned to redesign the page to meet the requirements of the "design team".
+Since our Index page still had default styling, I was assigned to redesign the page to meet the requirements of the "design team". Using bootstrap cards and modals, I made a clickable image (that a user could [upload](#story-3-back-end)), labeled with the name property of the Cast Members model. I also added edit and delete options on the cards, improving the site's usability.
+
+![](image here)
