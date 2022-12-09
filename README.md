@@ -9,21 +9,24 @@ The project allowed me to work in a legacy codebase, completing both front-end a
 
 ## ***Below, I'll highlight some of the work I completed as part of the 10-day sprint.***
 
-#### Story 1 (back-end) - Create an Entity Framework model that represents Cast Members and their associated data.
+#### Story 1 
+##### ***Back-end*** - Create an Entity Framework model that represents Cast Members and their associated data.
 I was tasked with creating an entity model for my assigned class (Cast Members), an enum for their role in the theatre, and adding CRUD functionality. After the model was created and functional, I scaffolded the CRUD pages - creating  Index, Edit, Create, Details, and Delete pages. 
 
 ![A code snippet of the Cast Members model and its properties](https://github.com/jmternes/C-Sharp-Live-Project/blob/main/myModel.png?raw=true)
 
 <hr/>
 
-#### Story 2 (front-end) - Style the CRUD Pages.
+#### Story 2 
+##### ***Front-end*** - Style the CRUD Pages.
 After creating the CRUD pages, it was time to make some significant styling changes. These updates were based on requirements given to me by The Tech Academy, which included styling buttons, adding placeholders to the input fields, placing the form in a centered container, and adding borders to the input fields that matched the client's design desires. 
 
 ![A screenshot of the website's design](https://github.com/jmternes/C-Sharp-Live-Project/blob/main/CreatePage.png?raw=true)
 
 <hr/>
 
-#### Story 3 (back-end) - Allow users to upload images from their own file systems for storage and retrieval.
+#### Story 3
+##### ***Back-end*** - Allow users to upload images from their own file systems for storage and retrieval.
 This story provided many learning opportunities and new, useful knowledge moving forward. A user's image is uploaded from their system, then - in the controller - is converted into a byte[ ] and stored in the database. The image is then converted back into an image when retrieved for display in the views. 
 
 ###### ***This method converts the uploaded image into a byte[ ]:***
@@ -40,7 +43,8 @@ This story provided many learning opportunities and new, useful knowledge moving
 
 <hr/>
 
-#### Story 4 (front-end) - Style the Index page with the Cast Members Model entries.
-Since our Index page still had default styling, I was assigned to redesign the page to meet the requirements of the "design team". Using bootstrap cards and modals, I made a clickable image (that a user could [upload](#story-3-back-end)), labeled with the name property of the Cast Members model. I also added edit and delete options on the cards, improving the site's usability.
+#### Story 4 
+##### ***Front and Back-end*** - Style the Index page with the Cast Members Model entries.
+Since our Index page still had default styling, I was assigned to redesign the page to meet the requirements of the "design team". Using bootstrap cards and modals, I made a clickable image (that a user could [upload](#story-3)), labeled with the name property of the Cast Members model. I also added edit and delete options on the cards, improving the site's usability.
 
 ![](image here)
