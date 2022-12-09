@@ -48,3 +48,12 @@ This story provided many learning opportunities and new, useful knowledge moving
 Since our Index page still had default styling, I was assigned to redesign the page to meet the requirements of the "design team". Using bootstrap cards and modals, I made a clickable image (that a user could [upload](#story-3)), labeled with the name property of the Cast Members model. I also added edit and delete options on the cards, improving the site's usability.
 
 ![](image here)
+
+<hr/>
+
+#### Summary
+During this 10-day sprint with The Tech Academy, I got to work as a team member in a Scrum environment - completing front and back-end stories to contribute to a legacy codebase. I also got to practice version control, using Git within the Visual Studio IDE and Azure DevOps. I learned a lot of useful skills, both general and technical, and will take the skills and knowledge acquired with me moving forward.
+
+<hr/>
+
+###### ***Jump to: [Introduction](#introduction) | [Story 1](#story-1) | [Story 2](#story-2) | [Story 3](#story-3) | [Story 4](#story-4)***
