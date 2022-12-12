@@ -1,6 +1,6 @@
 # C# .NET Live Project
 ## Introduction
-As part of the curriculum at [The Tech Academy](https://learncodinganywhere.com), I worked as a full-stack developer for a two-week sprint - contributing to an MVC web application created with ASP .NET and Entity Framework. The work environment was based on the Agile Scrum framework, complete with a sprint planning meeting, daily standups, and code retrospectives. The app serves as an interactive website for a local theatre in Seattle, designed as a Content Management System to allow users to manage their site to their liking, without technical knowledge.
+As part of the curriculum at [The Tech Academy](https://learncodinganywhere.com), I worked as a full-stack developer for a two-week sprint - contributing to an MVC web application created with ASP .NET and Entity Framework. The work environment was based on the Agile Scrum framework, complete with a sprint planning meeting, daily standups, and code retrospectives. The app serves as an interactive website for a local theatre in Portland, designed as a Content Management Service to allow users to manage their site to their liking, without technical knowledge.
 
 The project allowed me to work in a legacy codebase, completing both front-end and back-end user stories, both contributing to a product that allows users to fill a database with Cast Members data, then read, or update/delete said data; implemeting full [CRUD functionality](#crud-functionality).
 
